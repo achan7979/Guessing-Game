@@ -32,6 +32,7 @@ public class GuessingGame
 		int guess = input.nextInt();
 		while (guess != num)
 		{
+
 			System.out.println("Try Again");	
 			guess = input.nextInt();
 		}
