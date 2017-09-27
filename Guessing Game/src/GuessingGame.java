@@ -39,7 +39,6 @@ public class GuessingGame
 		{
 			System.out.println("Try Again");	
 			guess = input.nextInt();
-			System.out.println("hello alex");
 		}
 		System.out.println("Congratulations, you guessed " + num + "!");
 	}
