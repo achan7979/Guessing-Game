@@ -26,7 +26,9 @@ public class GuessingGame
 
 	public static void guessTheNumber()
 	{
+		Scanner input = new Scanner(System.in);
 		int num = (int)((Math.random()*10) + 1);
+		int guess = input.nextInt();
 		while (guess != num)
 		{
 			
