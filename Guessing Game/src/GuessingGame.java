@@ -32,9 +32,9 @@ public class GuessingGame
 		int guess = input.nextInt();
 		while (guess != num)
 		{
-
 			System.out.println("Try Again");	
 			guess = input.nextInt();
+			System.out.println("hello alex");
 		}
 		System.out.println("Congratulations, you guessed " + num + "!");
 	}
