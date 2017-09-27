@@ -1,3 +1,9 @@
+/*
+ * Name: Guessing Game
+ * Author: Alex Chan
+ * Date: 9/27/17\
+ * 
+ */
 import java.util.Scanner;
 import java.util.InputMismatchException;
 public class GuessingGame 
@@ -32,7 +38,6 @@ public class GuessingGame
 		int guess = input.nextInt();
 		while (guess != num)
 		{
-
 			System.out.println("Try Again");	
 			guess = input.nextInt();
 		}
