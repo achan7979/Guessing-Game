@@ -29,7 +29,7 @@ public class GuessingGame
 		int num = (int)((Math.random()*10) + 1);
 		while (guess != num)
 		{
-			
+			System.out.println("HI");
 		}
 	}
 }
