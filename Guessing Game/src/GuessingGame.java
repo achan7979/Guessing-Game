@@ -1,5 +1,5 @@
-/*
- * Name: Guessing Game
+/**
+ * @name: Guessing Game
  * Author: Alex Chan
  * Date: 9/27/17
  */
