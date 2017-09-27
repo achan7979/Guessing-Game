@@ -26,7 +26,11 @@ public class GuessingGame
 
 	public static void guessTheNumber()
 	{
-		(int)num = ((Math.random()*10) + 1);
-		
+		int num = (int)((Math.random()*10) + 1);
+		while (guess != num)
+		{
+			
+		}
 	}
 }
+ 
