@@ -1,8 +1,7 @@
 /*
  * Name: Guessing Game
  * Author: Alex Chan
- * Date: 9/27/17\
- * 
+ * Date: 9/27/17
  */
 import java.util.Scanner;
 import java.util.InputMismatchException;
